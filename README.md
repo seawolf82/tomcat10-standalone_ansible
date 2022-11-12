@@ -1,4 +1,4 @@
-# tomcat9-standalone_ansible
+# tomcat10-standalone_ansible
 
 This ansible script install on remote machine The Tomcat application server 10 and enabling management console to manage it
 
